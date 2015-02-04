@@ -3,5 +3,5 @@ First attempt by me (Adam) at a website.
 
 Automatic hosting by github pages
 
-link: mandmyay1.github.io
+http://mandmyay1.github.io
 
