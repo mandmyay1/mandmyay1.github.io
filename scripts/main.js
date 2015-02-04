@@ -30,3 +30,14 @@ else {
 }
 
 myButton.onclick = setUserName;
+
+//var textBox = document.querySelector("input");
+
+function validate(obj, lowval, hival){
+	if((obj.value < lowval) ){
+		alert("low value");
+	}
+	else if(obj.value > hival){
+		alert("high value");
+	}
+}
