@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Phone Number Validator</title>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
+	<link href="../styles/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<p>Enter phone number: <input id="phone" type="text" size=10 onKeyUp="testPhoneNumber(document.getElementById('phone'))"></p>
+<p id="result"></p>
+<script type="text/javascript">
+	var regex = /(?:\d{3}|\(\d{3}\))([-\/\.])\d{3}\1\d{4}$/; 
+	var result = document.getElementById('result');
+	function testPhoneNumber(input){
+		var passed = regex.exec(input.value);
+		if( !passed ){
+			result.innerHTML = "";
+		}
+		else{
+			result.innerHTML = input.value + " is a valid phone number";
+		}
+	}
+</script>
+</body>
+</html>
