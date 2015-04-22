@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>A Turing Machine</title>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+<title>Simulate A Turing Machine</title>
+</head>
+<body>
+<p>
+<input type="text" name="alphabet" size=10 onKeyUp="validateAlphabet();" value="01">
+Alphabet of the Turing Machine
+</p>
+<p>
+<input type="text" name="possibleStates" size=10 onKeyUp="validateStates();" value="Mov B Bi OK">
+Possible States
+</p>
+<p>
+<input type="text" name="startState" size=10 onKeyUp="validateStartState();" value="Mov">
+Start State
+</p>
+<p>
+<input type="text" name="acceptingState" size=10 onKeyUp="validateAcceptingState();" value="OK">
+Accepting State
+</p>
+<p>
+<input type="text" name="initialTape" size=10 onKeyUp="validateInitialTape();" value="01100100">
+Initial Tape
+</p>
+<p>
+<textarea name="transitionRules" cols=20 rows="10" onKeyUp="validateTransitionRules();">Mov 0 = Mov 0 >
+Mov 1 = Mov 1 >
+Mov _ = B _ <
+B 0 = B 0 <
+B 1 = Bi 1 <
+B _ = OK _ >
+Bi 0 = Bi 1 <
+Bi 1 = Bi 0 <
+Bi _ = OK _ ></textarea>
+Transition Rules
+</p>
+<button name="Step" onClick="step();">Step</button>
+<p id="result" />
+<p id="pointer" />
+<p id="state" />
+<script type="text/javascript" src="scripts/turing.js"></script>
+<script type="text/javascript" src="scripts/main.js"></script>
+</body>
+</html>
