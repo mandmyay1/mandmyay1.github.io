@@ -7,11 +7,22 @@ var frontier = [];
 var xwide = 50;
 var yhigh = 25;
 htmlns = "http://www.w3.org/1999/xhtml";
+var posX = 0;
+var posY = 0;
+var cursor = ">";
+var endX = xwide-1;
+var endY = yhigh-1;
+var gameover = false;
 
 function generateMaze(){
+	gameover = false;
+	posX = 0;
+	posY = 0;
+	cursor = ">";
+	endX = xwide-1;
+	endY = yhigh-1;
 	field = [];
 	frontier = [];
-	var step = 50;
 	for( var i = 0; i < yhigh; i++ ){
 		field[i] = [];
 		for( var j = 0; j < xwide; j++ ){
@@ -23,7 +34,9 @@ function generateMaze(){
 	//console.log(xchoice, ychoice);
 	carve( xchoice, ychoice );
 	 //step();
-	while( lol() ){}
+	while( step() ){}
+	generateStart();
+	generateEnd();
 	DrawField();
 }
 
@@ -178,13 +191,6 @@ function checkDiagonals(x, y){
 }
 
 function step(){
-	lol();
-}
-
-function lol(){
-//	console.log("lol");
-//}
-//function step(){
 	if( frontier.length > 0 ){
 		var number = Math.floor( (Math.random() *frontier.length));
 		choice = frontier[number];
@@ -225,6 +231,73 @@ function DrawField(){
 		//mazeTag.appendChild(div);
 	}
 	
+}
+
+function generateStart(){
+	while( field[posY][posX] !== '.' ){
+		posY++;
+	}
+	//console.log(posX, posY);
+	field[posY][posX] = "<font color='red'>" + cursor + "</font>";
+}
+function generateEnd(){
+	while( field[endY][endX] !== '.' ){
+		endY--;
+	}
+	//console.log(posX, posY);
+	field[endY][endX] = "<font color='blue'>X</font>";
+}
+
+window.onkeyup = function(e) {
+	if( gameover === true ){ return; }
+   var key = e.keyCode ? e.keyCode : e.which;
+
+   var nextX = posX;
+   var nextY = posY;
+   
+   if (key == 87) { // W key
+	   cursor = "^";
+	   if( posY > 0 ){
+		   nextY --;
+	   }
+   }else if (key == 83) { // S key
+	   cursor = "v";
+	   if( posY < yhigh -1 ){
+		   nextY ++;
+	   }
+   }
+   else if( key == 65 ){ // A key
+	   cursor = "<";
+	   if( posX > 0 ){
+		   nextX --;
+	   }
+   }
+   else if( key == 68 ){ // D key
+	   cursor = ">";
+	   if( posX < xwide -1 ){
+		   nextX ++;
+	   }
+   }
+
+   //console.log(nextX, nextY, field[nextY][nextX]);
+   if( field[nextY][nextX] === '.' || field[nextY][nextX] === "<font color='red'>.</font>" ){
+	   field[nextY][nextX] = "<font color='red'>" + cursor + "</font>";
+	   field[posY][posX] = "<font color='red'>.</font>";
+	   posY = nextY;
+	   posX = nextX;
+   }
+   else if( field[nextY][nextX] === "<font color='blue'>X</font>" ){
+	   field[nextY][nextX] = "<font color='red'>" + cursor + "</font>";
+	   field[posY][posX] = "<font color='red'>.</font>";
+	   posY = nextY;
+	   posX = nextX;
+	   window.alert("You won!");
+	   gameover = true;
+   }
+   else{
+	   field[posY][posX] = "<font color='red'>" + cursor + "</font>";
+   }
+   DrawField();
 }
 
 function DrawLine(x1, y1, x2, y2){

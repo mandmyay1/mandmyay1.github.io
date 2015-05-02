@@ -39,6 +39,10 @@ p,li {
     font-family: "Courier New", Courier, monospace
 }
 
+p.small{
+	line-height: 90%;
+}
+
 img {
 	display: block;
 	margin: 0 auto;
