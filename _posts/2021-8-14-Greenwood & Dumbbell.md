@@ -39,15 +39,15 @@ Sunday we woke up at 5am and headed out at 6 for the summits. The wind seemed to
 
 Our first target was Greenwood, which is farther away. We ascended through talus fields to the notch in the ridge at 7900' to find the 'Baby Carriage Ledge'. We'd heard a lot about this ledge that's about a foot wide in places, with some decent exposure, but it didn't seem too bad. The worst part of it was at the beginning trying to get down a 5-foot section of exposed dirt slanting away from you. Soon enough, all three of us were through the ledge and headed toward Greenwood.
 
-We threw on some crampons to cross a snow field / ice sheet above a fairly large tarn. It looked like it would be a pretty fun slip-n-slide if you didn't mind the freezing water at the bottom! The rest of Greenwood was a class 2 walkup for the last 700' or so.
+We threw on some crampons to cross a snow field / ice sheet above a fairly large tarn. It looked like it would be a pretty fun slip-n-slide if you didn't mind the freezing water at the bottom! The rest of Greenwood was a class 2 walkup for the last 700' or so and we were soon at the top.
 
-The summit register was placed in someone's Nalgene a couple years ago, and it was difficult to get out. Liz donated a hair band to the cause, hopefully others in the future won't struggle as much with that.
+From Greenwood you could see the village of Holden, mountains Bonanza, Eldorado, Dome, Baker & Shuksan looking small and out of place, and some of the closer peaks in the Glacier Peak wilderness, Fortress, Chiwawa, Buck, Berge, Copper, Fernow, 7FJ, Maude, among others. You could also see down to the Stuart range, and I'm pretty sure that I could see Rainier peaking out behind Buck, but couldn't be positive it wasn't a cloud.
 
-From Greenwood you could see the village of Holden, mountains Bonanza, Eldorado, Dome, Baker & Shuksan looking small and out of place, and some of the closer peaks in the Glacier Peak wilderness, Fortress, Chiwawa, Buck, Berge, Copper, Fernow, 7FJ, Maude among others.
+The summit register was placed in someone's Nalgene a couple years ago, and it was difficult to get out. Liz donated a hair band to the cause, so maybe future peakbaggers won't struggle as much with it.
 
 We headed back down, re-crossed the ice sheet and the ledge. Next objective was Dumbbell. We had read beta of a nice third-class chimney that would allow access to the upper mountain, and found it pretty quickly. We scrambled up through this loose gully / chimney to the southwest ridge of Dumbbell. Once on the ridge, the scrambling became pretty fun and easy, and before long we were on the top.
 
-We signed the second register, and as we were writing the date (8/15) I remembered it was my mom's birthday. I thought it would be cool to later send her a picture of me on the summit as why I couldn't call, but Liz suggested to check the cell reception up here. Lo and behold, 4g LTE service at the top of Dumbbell! So I was able to send a picture from the summit, and receive some emails.
+We signed the second register, and as we were writing the date (8/15) I remembered it was my mom's birthday. I thought it would be cool to later send her a picture of me on the summit as why I couldn't call, but Liz suggested to check the cell reception up here. Lo and behold, 4g LTE service at the top of Dumbbell! So I was able to send a picture from the summit, and receive some emails. No idea where that cell tower was though, as it's really in the middle of nowhere (literally a wilderness).
 
 After hanging out on the summit for a while taking in the views and playing name-that-peak, eventually we headed back down, scrambling the ridge and then the chimney. An annoying scree and talus field greeted us at the bottom of the chimney, which we made quick work of, and were soon back to camp for lunch.
 
