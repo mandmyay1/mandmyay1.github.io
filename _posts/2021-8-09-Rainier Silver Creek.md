@@ -8,7 +8,7 @@ Having climbed Rainier twice via the Emmons route, I was already familiar with t
 
 Maddy had accidentally reserved two camp sites, so we chose the best one of the two (site #1!) and set up the tent in the Friday afternoon. We decided that we had better make hay while the weather cooperated, and drove up to Sunrise to see what it was like.
 
-An 8-mile hike to the Fremont Lookout Tower sounded like it was about the right distance for the time of day, and so we started hiking out of Sunrise. The clouds were covering the mountain, and as we hiked the trail we came up against the bottom of the clouds. We passed Frozen Lake which still had a snow field periodically breaking off into it, turning into bergey bits in the icy lake. We made the turn to the lookout and continued into the wind and clouds, passing a few people returning from the hike.
+A 6.5 mile hike to the Fremont Lookout Tower sounded like it was about the right distance for the time of day, and so we started hiking out of Sunrise. The clouds were covering the mountain, and as we hiked the trail we came up against the bottom of the clouds. We passed Frozen Lake which still had a snow field periodically breaking off into it, turning into bergey bits in the icy lake. We made the turn to the lookout and continued into the wind and clouds, passing a few people returning from the hike.
 
 ![Near Frozen Lake](/images/rainier_silver_creek/PXL_20210807_005725361.jpg)
 Near Frozen Lake
@@ -64,7 +64,7 @@ After passing Frozen Lake again, we took a different trail than before, up and d
 
 After a while we headed down, back over the other two Burroughs and back to Sunrise. It wasn't too late so we decided to go to Tipsoo lake at nearby Chinook Pass. 
 
-There's a 3 mile loop at Chinook Pass which goes around Naches peak that coincides with the Pacific Crest Trail, so we wanted to check it out. It was cloudy on the west side of the pass, but as soon as we got to the other side, it was perfectly clear. We saw some cool lakes and met a couple of PCT through-hikers only a couple of weeks away from their finish. When we had to swap to the other side of the pass again, the clouds immediately socked in again, although lighter than before. Tipsoo lake looked pretty, but also busy being next to the highway.
+There's a 4 mile loop at Chinook Pass which goes around Naches peak that coincides with the Pacific Crest Trail, so we wanted to check it out. It was cloudy on the west side of the pass, but as soon as we got to the other side, it was perfectly clear. We saw some cool lakes and met a couple of PCT through-hikers only a couple of weeks away from their finish. When we had to swap to the other side of the pass again, the clouds immediately socked in again, although lighter than before. Tipsoo lake looked pretty, but also busy being next to the highway.
 
 Now it was getting late so we drove back to the campsite and turned in for the night.
 
@@ -97,7 +97,10 @@ Handstand
 
 ---
 
+[Strava Fremont Lookout Tower](https://www.strava.com/activities/5755946279)
+[Strava Panorama Point in the rain](https://www.strava.com/activities/5755946781)
+[Strava 3 Burroughs Trail](https://www.strava.com/activities/5766276575)
+[Strava Naches Peak Loop](https://www.strava.com/activities/5766277017)
+[Strava Pinnacle Peak](https://www.strava.com/activities/5766277521)
 
-[Strava with GPS track](https://www.strava.com/activities/5799957426)
-
-[More photos](https://photos.app.goo.gl/MskhYYHLha23GebYA)
+[More photos](https://photos.app.goo.gl/NfoFd3eGSMA8o4ZSA)
