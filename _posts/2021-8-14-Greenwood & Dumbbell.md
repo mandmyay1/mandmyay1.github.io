@@ -37,7 +37,7 @@ At this point it was obvious that the smoke wasn't going away today, so we decid
 
 Nobody else was interested, but it looked straight forward enough, so I hiked roughly 1mi. across the heather and talus slopes, ascended more talus to the ridge, where I was greeted with some moderate winds and a hazy view of Bonanza.
 
-![Hazy Bonanza](images/greenwood_dumbbell/DSC05693.JPG)
+![Hazy Bonanza](/images/greenwood_dumbbell/DSC05693.JPG)
 
 I scrambled to the top of the high point, which was actually more involved than expected, and then came back down and hiked back to camp. By the time I got back it was time for dinner and we hung out until 8:30pm when we went to bed.
 
@@ -47,35 +47,35 @@ Sunday we woke up at 5am and headed out at 6 for the summits. The wind seemed to
 
 Our first target was Greenwood, which is farther away. We ascended through talus fields to the notch in the ridge at 7900' to find the 'Baby Carriage Ledge'. We'd heard a lot about this ledge that's about a foot wide in places, with some decent exposure, but it didn't seem too bad. The worst part of it was at the beginning trying to get down a 5-foot section of exposed dirt slanting away from you. Soon enough, all three of us were through the ledge and headed toward Greenwood.
 
-![Backlit on the ledge](images/greenwood_dumbbell/DSC05728.JPG)
+![Backlit on the ledge](/images/greenwood_dumbbell/DSC05728.JPG)
 
-![Ledge](images/greenwood_dumbbell/DSC05737.JPG)
+![Ledge](/images/greenwood_dumbbell/DSC05737.JPG)
 
 We threw on some crampons to cross a snow field / ice sheet above a fairly large tarn. It looked like it would be a pretty fun slip-n-slide if you didn't mind the freezing water at the bottom! The rest of Greenwood was a class 2 walkup for the last 700' or so and we were soon at the top.
 
-![Tarn between Greenwood & Dumbbell](images/greenwood_dumbbell/DSC05752.JPG)
+![Tarn between Greenwood & Dumbbell](/images/greenwood_dumbbell/DSC05752.JPG)
 
 From Greenwood you could see the village of Holden, mountains Bonanza, Eldorado, Dome, Baker & Shuksan looking small and out of place, and some of the closer peaks in the Glacier Peak wilderness, Fortress, Chiwawa, Buck, Berge, Copper, Fernow, 7FJ, Maude, among others. You could also see down to the Stuart range, and I'm pretty sure that I could see Rainier peaking out behind Buck, but couldn't be positive it wasn't a cloud.
 
 The summit register was placed in someone's Nalgene a couple years ago, and it was difficult to get out. Liz donated a hair band to the cause, so maybe future peakbaggers won't struggle as much with it.
 
-![Brandon on the summit of Greenwood](images/greenwood_dumbbell/DSC05762.JPG)
+![Brandon on the summit of Greenwood](/images/greenwood_dumbbell/DSC05762.JPG)
 
-![Heading back across the ledge](images/greenwood_dumbbell/DSC05790.JPG)
+![Heading back across the ledge](/images/greenwood_dumbbell/DSC05790.JPG)
 
 We headed back down, re-crossed the ice sheet and the ledge. Next objective was Dumbbell. We had read beta of a nice third-class chimney that would allow access to the upper mountain, and found it pretty quickly. We scrambled up through this loose gully / chimney to the southwest ridge of Dumbbell. Once on the ridge, the scrambling became pretty fun and easy, and before long we were on the top.
 
-![Scrambling the chimney](images/greenwood_dumbbell/DSC05800.JPG)
+![Scrambling the chimney](/images/greenwood_dumbbell/DSC05800.JPG)
 
-![Brandon and Liz on the summit of Dumbbell](images/greenwood_dumbbell/DSC05804.JPG)
+![Brandon and Liz on the summit of Dumbbell](/images/greenwood_dumbbell/DSC05804.JPG)
 
-![The three of us on the summit of Dumbbell](images/greenwood_dumbbell/DSC05811.JPG)
+![The three of us on the summit of Dumbbell](/images/greenwood_dumbbell/DSC05811.JPG)
 
 We signed the second register, and as we were writing the date (8/15) I remembered it was my mom's birthday. I thought it would be cool to later send her a picture of me on the summit as why I couldn't call, but Liz suggested to check the cell reception up here. Lo and behold, 4g LTE service at the top of Dumbbell! So I was able to send a picture from the summit, and receive some emails. No idea where that cell tower was though, as it's really in the middle of nowhere (literally a wilderness).
 
 After hanging out on the summit for a while taking in the views and playing name-that-peak, eventually we headed back down, scrambling the ridge and then the chimney. An annoying scree and talus field greeted us at the bottom of the chimney, which we made quick work of, and were soon back to camp for lunch.
 
-![Descending the upper part of Dumbbell](images/greenwood_dumbbell/DSC05814.JPG)
+![Descending the upper part of Dumbbell](/images/greenwood_dumbbell/DSC05814.JPG)
 
 We packed up and hiked out, switching mountaineering boots for trail runners in the lower basin, and were back to the cars around 5pm. A quick stop at the 59er Diner, where we saw via Google Maps that there was no HW2 traffic to speak of, and made it home before too long.
 
