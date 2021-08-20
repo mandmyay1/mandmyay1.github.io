@@ -97,3 +97,7 @@ We packed up and hiked out, switching mountaineering boots for trail runners in 
 Overall this was a fun overnight, without involving anything too strenuous or stressful. Travel was quick and easy, and the views were great. I love being in this area, the Glacier Peak Wilderness, especially around August and September.
 
 ---
+
+[Strava with GPS track](https://www.strava.com/activities/5799957426)
+
+[More photos](https://photos.app.goo.gl/MskhYYHLha23GebYA)
