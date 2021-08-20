@@ -98,9 +98,13 @@ Handstand
 ---
 
 [Strava Fremont Lookout Tower](https://www.strava.com/activities/5755946279)
+
 [Strava Panorama Point in the rain](https://www.strava.com/activities/5755946781)
+
 [Strava 3 Burroughs Trail](https://www.strava.com/activities/5766276575)
+
 [Strava Naches Peak Loop](https://www.strava.com/activities/5766277017)
+
 [Strava Pinnacle Peak](https://www.strava.com/activities/5766277521)
 
 [More photos](https://photos.app.goo.gl/NfoFd3eGSMA8o4ZSA)
