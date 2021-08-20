@@ -1,4 +1,4 @@
-## August 14, 2021 Greenwood & Dumbbell
+## August 14, 2021 Greenwood and Dumbbell
 
 After the recent trip to the Twin Sisters to climb the South Twin Sister, we discussed other options for an overnight trip during August.
 
