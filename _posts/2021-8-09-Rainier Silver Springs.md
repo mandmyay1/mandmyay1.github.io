@@ -1,8 +1,8 @@
-## August 6-9, 2021 Rainier Silver Creek campsite
+## August 6-9, 2021 Rainier Silver Springs campsite
 
-Maddy and I had reserved a long weekend at the Silver Creek campground near Rainier National Park, on the Sunrise/White River side of the mountain. We had a spot reserved Friday night through Sunday night, leaving Monday. Car camping is always fun, you can bring so much stuff! Especially food and drink.
+Maddy and I had reserved a long weekend at the Silver Springs campground near Rainier National Park, on the Sunrise/White River side of the mountain. We had a spot reserved Friday night through Sunday night, leaving Monday. Car camping is always fun, you can bring so much stuff! Especially food and drink.
 
-We drove down on Friday mid-morning, with a quick stop in Enumclaw to fill up the cooler and get anything we had forgotten. We drove to the Silver Creek campground, which is less than a mile from the border of Rainier National Park, and about 10 miles away from the White River / Sunrise entrance.
+We drove down on Friday mid-morning, with a quick stop in Enumclaw to fill up the cooler and get anything we had forgotten. We drove to the Silver Springs campground, which is less than a mile from the border of Rainier National Park, and about 10 miles away from the White River / Sunrise entrance.
 
 Having climbed Rainier twice via the Emmons route, I was already familiar with the White River entrance, but yet had never been up to Sunrise. Unfortunately, the weather forecast wasn't looking too good, mostly clouds and some rain over the weekend, with sunshine forecasted for Monday, which was the day we were scheduled to leave.
 
