@@ -2,14 +2,28 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>My Test Page</title>
+	<title>Running Pace Calculator</title>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
 	<link href="styles/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<p>Distance: <input id="distance" type="text" name="distance" size=3 onKeyUp="validate();"> miles</p>
-<p>Time:     <input id="time" type="text" name="time" size=3 onKeyUp="validate();"> (Enter HH.MM.SS or MM.SS or SS)</p>
-<p id="result"></p>
+	<div id="d0">
+		<p>Distance: <input id="distance" type="text" name="distance" size=3 onKeyUp="validate();">
+			<select id="distance_dropdown" onchange="validate();">
+				<option>miles</option>
+				<option>km</option>
+				<option>meters</option>
+			</select>
+		</p>
+		<p>
+			Time:     <input id="time" type="text" name="time" size=3 onKeyUp="validate();"> Format
+			<input type="radio" id="hh.mm.ss" name="time_dropdown" value="HH.MM.SS" checked onchange="validate();">
+			<label for="hh.mm.ss">HH.MM.SS</label>
+			<input type="radio" id="ss.ms" name="time_dropdown" value="SS.MS" onchange="validate();">
+			<label for="ss.ms">SS.MS</label>
+		</p>
+		<p id="result"></p>
+	</div>
 <script type="text/javascript" src="scripts/runningPaceCalculator.js"></script>
 </body>
 </html>

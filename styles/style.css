@@ -32,7 +32,7 @@ body {
 	border: 5px solid black;
 }
 
-p,li {
+p,li,div {
 	font-size: 16px;
 	line-height: 2;
 	letter-spacing: 1px;
