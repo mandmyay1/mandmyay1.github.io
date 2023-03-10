@@ -6,12 +6,14 @@ function pad(num, size) {
     var s = "000000" + num;
     return s.substr(s.length-size);
 }
-function validate(){
-	var dist = document.getElementById("distance").value;
-	var time = document.getElementById("time").value;
-	var result = document.getElementById("result");
-	var distanceDropdown = document.getElementById("distance_dropdown").value;
-	var timeDropdown = document.getElementsByName("time_dropdown");
+function validate(context){
+	var parentDiv = context.parentElement.parentElement;
+	var divId = parentDiv.id;
+	var dist = document.getElementById("distance" + divId).value;
+	var time = document.getElementById("time" + divId).value;
+	var result = document.getElementById("result" + divId);
+	var distanceDropdown = document.getElementById("distance_dropdown" + divId).value;
+	var timeDropdown = document.getElementsByName("time_dropdown" + divId);
 	var timeDropdownValue = '';
 	for (var i = 0; i < timeDropdown.length; i++) {
 		if (timeDropdown[i].checked) {
@@ -53,4 +55,53 @@ function validate(){
 	var secPace = Math.floor((( totalMinutes / dist ) - minutePace) *60);
 	result.innerHTML = minutePace + ":" + pad(secPace, 2) + " minutes per " + distanceDropdown;
 	
+}
+
+// Duplicate a div with a new ID, including all contents
+function copyDiv(context) {
+	var parentDiv = context.parentElement;
+	var body = parentDiv.parentElement;
+	var ownerDocument = parentDiv.ownerDocument;
+	var copyDiv = ownerDocument.createElement("div");
+	var id = parentDiv.id;
+	var newId = parseInt(id) + 1;
+	while (document.getElementById(newId) !== null) {
+		newId ++;
+	}
+	var html = parentDiv.innerHTML;
+	body.appendChild(copyDiv);
+	copyDiv.innerHTML = replaceHtml(html, id, newId);
+	copyDiv.id = newId;
+	copyFields(id, newId);
+}
+
+// Copy the selected values into the new fields
+function copyFields(id, newId) {
+	var oldDist = document.getElementById("distance" + id).value;
+	var oldTime = document.getElementById("time" + id).value;
+	var oldDistanceDropdown = document.getElementById("distance_dropdown" + id).value;
+	var oldTimeRadio1 = document.getElementById("hh.mm.ss" + id);
+	var oldTimeRadio2 = document.getElementById("ss.ms" + id);
+	document.getElementById("distance" + newId).value = oldDist;
+	document.getElementById("time" + newId).value = oldTime;
+	document.getElementById("distance_dropdown" + newId).value = oldDistanceDropdown;
+	document.getElementById("hh.mm.ss" + newId).checked = oldTimeRadio1.checked;
+	document.getElementById("ss.ms" + newId).checked = oldTimeRadio2.checked;
+
+}
+
+// Replace old ID with new ID in a given html
+function replaceHtml(inputHtml, id, newId){
+	inputHtml = inputHtml.replace("distance" + id, "distance" + newId);
+	inputHtml = inputHtml.replace("time" + id, "time" + newId);
+	inputHtml = inputHtml.replace("distance_dropdown" + id, "distance_dropdown" + newId);
+	inputHtml = inputHtml.replace("time_dropdown" + id, "time_dropdown" + newId);
+	inputHtml = inputHtml.replace("time_dropdown" + id, "time_dropdown" + newId);
+	inputHtml = inputHtml.replace("hh.mm.ss" + id, "hh.mm.ss" + newId);
+	inputHtml = inputHtml.replace("hh.mm.ss" + id, "hh.mm.ss" + newId);
+	inputHtml = inputHtml.replace("ss.ms" + id, "ss.ms" + newId);
+	inputHtml = inputHtml.replace("ss.ms" + id, "ss.ms" + newId);
+	inputHtml = inputHtml.replace("result" + id, "result" + newId);
+	inputHtml = inputHtml.replace("copy" + id, "copy" + newId);
+	return inputHtml;
 }

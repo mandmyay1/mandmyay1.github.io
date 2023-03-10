@@ -7,22 +7,23 @@
 	<link href="styles/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<div id="d0">
-		<p>Distance: <input id="distance" type="text" name="distance" size=3 onKeyUp="validate();">
-			<select id="distance_dropdown" onchange="validate();">
+	<div id="0">
+		<p>Distance: <input id="distance0" type="text" name="distance0" size=3 onKeyUp="validate(this);">
+			<select id="distance_dropdown0" onchange="validate(this);">
 				<option>miles</option>
 				<option>km</option>
 				<option>meters</option>
 			</select>
 		</p>
 		<p>
-			Time:     <input id="time" type="text" name="time" size=3 onKeyUp="validate();"> Format
-			<input type="radio" id="hh.mm.ss" name="time_dropdown" value="HH.MM.SS" checked onchange="validate();">
-			<label for="hh.mm.ss">HH.MM.SS</label>
-			<input type="radio" id="ss.ms" name="time_dropdown" value="SS.MS" onchange="validate();">
-			<label for="ss.ms">SS.MS</label>
+			Time:     <input id="time0" type="text" name="time0" size=3 onKeyUp="validate(this);"> Format
+			<input type="radio" id="hh.mm.ss0" name="time_dropdown0" value="HH.MM.SS" checked onchange="validate(this);">
+			<label for="hh.mm.ss0">HH.MM.SS</label>
+			<input type="radio" id="ss.ms0" name="time_dropdown0" value="SS.MS" onchange="validate(this);">
+			<label for="ss.ms0">SS.MS</label>
 		</p>
-		<p id="result"></p>
+		<p id="result0"></p>
+		<button id="copy0" onclick="copyDiv(this);">++</button>
 	</div>
 <script type="text/javascript" src="scripts/runningPaceCalculator.js"></script>
 </body>
