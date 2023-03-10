@@ -95,12 +95,10 @@ function replaceHtml(inputHtml, id, newId){
 	inputHtml = inputHtml.replace("distance" + id, "distance" + newId);
 	inputHtml = inputHtml.replace("time" + id, "time" + newId);
 	inputHtml = inputHtml.replace("distance_dropdown" + id, "distance_dropdown" + newId);
+	inputHtml = inputHtml.replace(new RegExp("time_dropdown" + id,  "g"), "time_dropdown" + newId);
 	inputHtml = inputHtml.replace("time_dropdown" + id, "time_dropdown" + newId);
-	inputHtml = inputHtml.replace("time_dropdown" + id, "time_dropdown" + newId);
-	inputHtml = inputHtml.replace("hh.mm.ss" + id, "hh.mm.ss" + newId);
-	inputHtml = inputHtml.replace("hh.mm.ss" + id, "hh.mm.ss" + newId);
-	inputHtml = inputHtml.replace("ss.ms" + id, "ss.ms" + newId);
-	inputHtml = inputHtml.replace("ss.ms" + id, "ss.ms" + newId);
+	inputHtml = inputHtml.replace(new RegExp("hh.mm.ss" + id, "g"), "hh.mm.ss" + newId);
+	inputHtml = inputHtml.replace(new RegExp("ss.ms" + id, "g"), "ss.ms" + newId);
 	inputHtml = inputHtml.replace("result" + id, "result" + newId);
 	inputHtml = inputHtml.replace("copy" + id, "copy" + newId);
 	return inputHtml;
